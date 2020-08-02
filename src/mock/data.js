@@ -30,7 +30,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'project.jpg',
     title: 'Auto repair and service company',
-    info: 'Worked for a startup from northern region of USA where we provide application for the Auto repai and service for the vehicle.',
+    info: 'Worked for a startup from northern region of USA where we provide application for the Auto repair and service for the vehicle.',
     info2: 'My role is as a frontend engineer, worked on on react, material-ui, react-admin, mapbox, full-calendar etc',
     url: '',
     repo: '', // if no repo, the button will not show up
@@ -39,8 +39,8 @@ export const projectsData = [
     id: nanoid(),
     img: 'project.jpg',
     title: 'Non-profit organization',
-    info: 'A project closr to my heart and with soe like minded people',
-    info2: 'Here am into digital marketing, developing the appilcation in react, material-ui.',
+    info: 'A project close to my heart and with some like minded people',
+    info2: 'Here am into digital marketing, developing the application in react, material-ui.',
     url: '',
     repo: '', // if no repo, the button will not show up
   },
