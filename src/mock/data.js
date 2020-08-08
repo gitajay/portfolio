@@ -20,8 +20,8 @@ export const aboutData = {
   img: 'profile.jpg',
   paragraphOne: 'When the screen is on, I am a web developer passionate about React, PHP and software development cycle.',
   paragraphTwo: 'When the screen is off, I like to live with my daugther(we pray, exercise, play, photo shoot, make fun together)',
-  paragraphThree: 'Am addicted to reading articles in medium.com, eagar to contribute a non-profit org, willing to help people, mentor to juniors, motivator for failures',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  paragraphThree: 'Am addicted to reading articles in medium.com, eagar to contribute a non-profit org, willing to help people, mentor to juniors, motivator to failures',
+  resume: 'https://ajaydev.netlify.app/resume.docx', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
@@ -31,7 +31,7 @@ export const projectsData = [
     img: 'project.jpg',
     title: 'Auto repair and service company',
     info: 'Worked for a startup from northern region of USA where we provide application for the Auto repair and service for the vehicle.',
-    info2: 'My role is as a frontend engineer, worked on on react, material-ui, react-admin, mapbox, full-calendar etc',
+    info2: 'My role is as a frontend engineer, worked on react, material-ui, react-admin, mapbox, full-calendar etc',
     url: '',
     repo: '', // if no repo, the button will not show up
   },
@@ -60,6 +60,7 @@ export const contactData = {
   cta: '',
   btn: '',
   email: 'jadacce@gmail.com',
+  phone: '+917667552888',
 };
 
 // FOOTER DATA

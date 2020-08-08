@@ -49,7 +49,7 @@ const Projects = () => {
                         </p>
                         <p className="mb-4">{info2 || ''}</p>
                       </div>
-                      
+
                     </div>
                   </Fade>
                 </Col>
@@ -63,10 +63,10 @@ const Projects = () => {
                   >
                     <div className="project-wrapper__image">
                       <a
-                        href={url || '#!'}
-                        target="_blank"
-                        aria-label="Project Link"
-                        rel="noopener noreferrer"
+                        // href={url || '#!'}
+                        // target="_blank"
+                        // aria-label="Project Link"
+                        // rel="noopener noreferrer"
                       >
                         <Tilt
                           options={{
@@ -92,6 +92,7 @@ const Projects = () => {
               </Row>
             );
           })}
+          <Title title="...more" />
         </div>
       </Container>
     </section>
